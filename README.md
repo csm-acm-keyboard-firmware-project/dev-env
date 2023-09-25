@@ -97,7 +97,7 @@ Once in the container's shell, make sure that your current working directory is 
 
 For this project, it is very important that all code is uniform in style. This increases code readability and makes the next generation of maintainers have an easier time integrating into the project. For simplicity's sake, we will follow the [Linux kernel coding style](https://www.kernel.org/doc/html/v5.8/process/coding-style.html). If you have any questions about this, reach out via the project channel on discord.
 
-### Data Loss Prevention
+## Data Loss Prevention
 
 #### Always exit the container
 
